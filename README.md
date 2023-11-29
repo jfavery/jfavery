@@ -1,1 +1,1 @@
-I’m a Continuing Lecturer at the University of Waterloo, where I teach Computer Science.
+I’m a Continuing Lecturer in the Cheriton School of Computer Science, at the University of Waterloo.
